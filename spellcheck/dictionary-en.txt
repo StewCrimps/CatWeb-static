@@ -899,6 +899,7 @@ explain
 explanation
 explode
 explore
+explorer
 explosion
 expose
 exposure
